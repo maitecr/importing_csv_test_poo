@@ -3,7 +3,7 @@ Data Manipulation and Treatment using Oracle, Pandas, and Python
 
 This repository contains a collection of code aimed at training and testing data manipulation and treatment techniques using Oracle, Pandas, and Python. The primary objective of this project is to showcase effective ways to import, process, and treat data from CSV files before inserting it into a database.
 
-Built with:
+**Built with:**
 
 Python | Object-Oriented Programming (OOP) | ORM (SQLAlchemy) | Relational database | Oracle
 
